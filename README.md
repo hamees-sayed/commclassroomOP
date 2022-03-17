@@ -10,3 +10,4 @@
 - I am done
 - bruhhh
 - hopefully this time
+- git bash
