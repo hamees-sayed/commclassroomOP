@@ -11,3 +11,4 @@
 - bruhhh
 - hopefully this time
 - git bash
+- gpg git bash
